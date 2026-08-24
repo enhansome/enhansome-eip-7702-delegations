@@ -1,7 +1,224 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Recoverable Account from Solarity",
+          "description": "Batching, Gas Sponsorhip, Recovery All-in-one EIP-7702/ERC-4337 smart account with ERC-7821 batching, ERC-4337 gas sponsorship, and ERC-7947 recovery mechanics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488189062,
+            "language": "Solidity",
+            "last_commit": "2026-05-18T13:00:10Z",
+            "owner": "dl-solarity",
+            "repo": "solidity-lib",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEBE by Vectorized",
+          "description": "Statelessness, Hyperoptimization A basic stateless ERC-7821 style batch executor contract for EOAs to delegate to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 915295209,
+            "language": "Solidity",
+            "last_commit": "2025-05-07T14:09:20Z",
+            "owner": "Vectorized",
+            "repo": "bebe",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stateless DeleGator from MetaMask",
+          "description": "ERC-7710, ERC-4337 A smart account used in MetaMask wallet, supporting multiple execution modes, gas sponsorship, and delegation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 823822789,
+            "language": "Solidity",
+            "last_commit": "2026-08-19T21:25:51Z",
+            "owner": "MetaMask",
+            "repo": "delegation-framework",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Smart Account from Ambire",
+          "description": "ERC-4337, Authorization A simple smart account used in Ambire wallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491143940,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:13Z",
+            "owner": "AmbireTech",
+            "repo": "ambire-common",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple EIP-7702 Account from Infinitism",
+          "description": "ERC-4337 A minimal account to be used with EIP-7702 (for batching) and ERC-4337 (for gas sponsoring).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451509672,
+            "language": "TypeScript",
+            "last_commit": "2026-01-25T19:41:37Z",
+            "owner": "eth-infinitism",
+            "repo": "account-abstraction",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All-in-one Account from Ithaca",
+          "description": "PassKeys, Gas Sponsorship, Session Keys All-in-one EIP-7702 powered account contract, coupled with Porto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883397691,
+            "language": "Solidity",
+            "last_commit": "2026-01-03T20:20:58Z",
+            "owner": "ithacaxyz",
+            "repo": "account",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Experimental Delegation with P256 Authorization",
+          "description": "Authorization, P256 An experimental delegation contract with basic P256 authorization & batch call capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 862231382,
+            "language": "Solidity",
+            "last_commit": "2025-02-24T04:49:00Z",
+            "owner": "ithacaxyz",
+            "repo": "exp-0001",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Wallet from Uniswap",
+          "description": "Singleton, Authorization, ERC-4337 A singleton contract wallet supporting batched transactions, alternative signers, and native ETH .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935034151,
+            "language": "Solidity",
+            "last_commit": "2026-07-07T18:12:21Z",
+            "owner": "Uniswap",
+            "repo": "calibur",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Vyper Smart Wallet by Fubuloubu",
+          "description": "Vyper, Plugins A (very) simple smart wallet for EOAs, using EIP-7702 for core functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979658700,
+            "language": "Python",
+            "last_commit": "2026-01-19T20:32:39Z",
+            "owner": "fubuloubu",
+            "repo": "Purse",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate Smart Account from OpenFort",
+          "description": "ERC-4337, Session Keys, Recovery All-in-one EIP-7702 powered smart account with session key support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 962004747,
+            "language": "HTML",
+            "last_commit": "2026-02-20T15:15:35Z",
+            "owner": "openfort-xyz",
+            "repo": "openfort-7702-account",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Wallet from OKX",
+          "description": "Sessions, Relayers A modular and secure implementation of EIP-7702 smart contract wallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979282412,
+            "language": null,
+            "last_commit": "2026-05-25T06:13:58Z",
+            "owner": "okx",
+            "repo": "wallet-core",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC-1967 Proxy for Smart Accounts from Base",
+          "description": "Proxy, ERC-1271 A secure ERC-1967 proxy implementation for EIP-7702 smart accounts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 923150725,
+            "language": "Solidity",
+            "last_commit": "2026-07-15T03:19:06Z",
+            "owner": "base",
+            "repo": "eip-7702-proxy",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EIP-7702 Proxy from Solady",
+          "description": "Proxy, Hyperoptimization Relay proxy for upgradeable EIP-7702 accounts without the need for redelegation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514706800,
+            "language": "Solidity",
+            "last_commit": "2026-08-17T10:44:09Z",
+            "owner": "Vectorized",
+            "repo": "solady",
+            "stars": 3364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC-1967 Proxy with EIP-7702 Initialization from OpenFort",
+          "description": "Proxy ERC-1967 Proxy with EIP-7702 Initialization Support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633913325,
+            "language": "Solidity",
+            "last_commit": "2025-12-31T16:15:11Z",
+            "owner": "openfort-xyz",
+            "repo": "openfort-contracts",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Delegations"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T14:53:36.748Z",
+    "last_updated": "2026-08-24T14:47:06.434Z",
     "original_repository": "Arvolear/awesome-eip-7702-delegations",
     "original_repository_id": 1007130112,
     "original_repository_sha": "b5b447b2c1c3eda8ad5f37114a8fda4426311c04",
