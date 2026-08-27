@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T21:25:51Z",
             "owner": "MetaMask",
             "repo": "delegation-framework",
-            "stars": 221
+            "stars": 222
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 491143940,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:04:10Z",
+            "last_commit": "2026-08-27T11:28:07Z",
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 32
@@ -218,9 +218,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:03:03.084Z",
-    "original_repository": "Arvolear/awesome-eip-7702-delegations",
-    "original_repository_id": 1007130112,
+    "last_updated": "2026-08-27T11:42:31.873Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1007130112,
+      "language": null,
+      "last_commit": "2025-12-01T09:59:54Z",
+      "owner": "Arvolear",
+      "repo": "awesome-eip-7702-delegations",
+      "stars": 73
+    },
     "original_repository_sha": "b5b447b2c1c3eda8ad5f37114a8fda4426311c04",
     "enhanced_repository": "enhansome/enhansome-eip-7702-delegations",
     "enhanced_repository_description": null,
