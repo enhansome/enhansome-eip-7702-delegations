@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T21:25:51Z",
             "owner": "MetaMask",
             "repo": "delegation-framework",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-01-25T19:41:37Z",
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1938
+            "stars": 1937
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:31.873Z",
+    "last_updated": "2026-08-27T23:54:57.030Z",
     "original_repository_info": {
       "archived": false,
       "id": 1007130112,
