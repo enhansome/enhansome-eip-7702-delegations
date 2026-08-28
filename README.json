@@ -16,7 +16,8 @@
             "owner": "dl-solarity",
             "repo": "solidity-lib",
             "stars": 395
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Vectorized",
             "repo": "bebe",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 823822789,
             "language": "Solidity",
-            "last_commit": "2026-08-19T21:25:51Z",
+            "last_commit": "2026-08-28T22:59:45Z",
             "owner": "MetaMask",
             "repo": "delegation-framework",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 491143940,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:28:07Z",
+            "last_commit": "2026-08-28T18:35:49Z",
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-01-25T19:41:37Z",
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1937
-          }
+            "stars": 1938
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-01-03T20:20:58Z",
             "owner": "ithacaxyz",
             "repo": "account",
-            "stars": 324
-          }
+            "stars": 325
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ithacaxyz",
             "repo": "exp-0001",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Uniswap",
             "repo": "calibur",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "fubuloubu",
             "repo": "Purse",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "openfort-xyz",
             "repo": "openfort-7702-account",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "okx",
             "repo": "wallet-core",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "base",
             "repo": "eip-7702-proxy",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "Vectorized",
             "repo": "solady",
             "stars": 3368
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         },
         {
           "node_type": "item",
@@ -211,14 +224,15 @@
             "owner": "openfort-xyz",
             "repo": "openfort-contracts",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:38:56.639Z"
         }
       ],
       "title": "Delegations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:54:57.030Z",
+    "last_updated": "2026-08-28T23:38:56.639Z",
     "original_repository_info": {
       "archived": false,
       "id": 1007130112,
