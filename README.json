@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solarity Solidity Library",
+            "homepage": "https://solarity.dev",
             "id": 488189062,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-05-18T13:00:10Z",
+            "open_issues": 2,
             "owner": "dl-solarity",
             "repo": "solidity-lib",
-            "stars": 395
+            "stars": 395,
+            "topics": [
+              "bitcoin",
+              "cryptography",
+              "ethereum",
+              "library",
+              "smart-contracts",
+              "solarity",
+              "solidity",
+              "zkp"
+            ]
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic EOA Batch Executor (BEBE)",
+            "homepage": null,
             "id": 915295209,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-05-07T14:09:20Z",
+            "open_issues": 2,
             "owner": "Vectorized",
             "repo": "bebe",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -42,12 +61,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The contracts that power the Delegation Framework",
+            "homepage": "https://gator.metamask.io",
             "id": 823822789,
             "language": "Solidity",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:59:45Z",
+            "open_issues": 45,
             "owner": "MetaMask",
             "repo": "delegation-framework",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "4337",
+              "account-abstraction",
+              "delegation",
+              "metamask",
+              "smart-wallet",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -58,12 +90,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common ground for the Ambire apps. This package puts together the core business logic behind the Ambire browser extensions and (the future) mobile apps.",
+            "homepage": "https://ambire.com",
             "id": 491143940,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:35:49Z",
+            "license": null,
+            "last_commit": "2026-08-29T00:58:56Z",
+            "open_issues": 36,
             "owner": "AmbireTech",
             "repo": "ambire-common",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "account-abstraction",
+              "erc-4337",
+              "ethereum",
+              "evm",
+              "wallets"
+            ]
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 451509672,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-25T19:41:37Z",
+            "open_issues": 8,
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1938
+            "stars": 1938,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -90,12 +138,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All you need account for authentication and payments on the web.",
+            "homepage": "https://porto.sh/contracts",
             "id": 883397691,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-01-03T20:20:58Z",
+            "open_issues": 74,
             "owner": "ithacaxyz",
             "repo": "account",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "7702",
+              "account",
+              "account-abstraction",
+              "authorization",
+              "ethereum",
+              "evm",
+              "payments"
+            ]
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -106,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Account Delegation with EIP-7702",
+            "homepage": "https://ithaca.xyz/writings/exp-0001",
             "id": 862231382,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-02-24T04:49:00Z",
+            "open_issues": 0,
             "owner": "ithacaxyz",
             "repo": "exp-0001",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -122,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a non-upgradeable, singleton wallet contract that can be set on an EIP-7702 delegation transaction",
+            "homepage": null,
             "id": 935034151,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-07-07T18:12:21Z",
+            "open_issues": 8,
             "owner": "Uniswap",
             "repo": "calibur",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -138,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👛 Personalize your Wallet",
+            "homepage": null,
             "id": 979658700,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-19T20:32:39Z",
+            "open_issues": 6,
             "owner": "fubuloubu",
             "repo": "Purse",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -154,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "EIP-7702 Account Delegator",
+            "homepage": "https://openfort.io",
             "id": 962004747,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-02-20T15:15:35Z",
+            "open_issues": 0,
             "owner": "openfort-xyz",
             "repo": "openfort-7702-account",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -170,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of OKX Wallet Core based on EIP-7702 – modular, secure, and gas-optimized smart contract wallet with multiple execution modes.",
+            "homepage": null,
             "id": 979282412,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-25T06:13:58Z",
+            "open_issues": 9,
             "owner": "okx",
             "repo": "wallet-core",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -186,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight ERC-1967 proxy for EOA upgrades to `CoinbaseSmartWallet` ",
+            "homepage": null,
             "id": 923150725,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-07-15T03:19:06Z",
+            "open_issues": 7,
             "owner": "base",
             "repo": "eip-7702-proxy",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -202,12 +293,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized Solidity snippets.",
+            "homepage": null,
             "id": 514706800,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-08-17T10:44:09Z",
+            "open_issues": 45,
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3368
+            "stars": 3369,
+            "topics": [
+              "erc1155",
+              "erc20",
+              "erc721",
+              "ethereum",
+              "inline-assembly",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         },
@@ -218,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Openfort Smart Contracts",
+            "homepage": null,
             "id": 633913325,
             "language": "Solidity",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-31T16:15:11Z",
+            "open_issues": 1,
             "owner": "openfort-xyz",
             "repo": "openfort-contracts",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "aa",
+              "erc-4337",
+              "evm-blockchain",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
         }
@@ -232,15 +346,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:38:56.639Z",
+    "last_updated": "2026-08-29T05:02:00.953Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome EIP-7702 delegation destinations.",
+      "homepage": null,
       "id": 1007130112,
       "language": null,
+      "license": null,
       "last_commit": "2025-12-01T09:59:54Z",
+      "open_issues": 0,
       "owner": "Arvolear",
       "repo": "awesome-eip-7702-delegations",
-      "stars": 73
+      "stars": 73,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "eip-7702",
+        "solidity"
+      ]
     },
     "original_repository_sha": "b5b447b2c1c3eda8ad5f37114a8fda4426311c04",
     "enhanced_repository": "enhansome/enhansome-eip-7702-delegations",
