@@ -147,7 +147,7 @@
             "open_issues": 74,
             "owner": "ithacaxyz",
             "repo": "account",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "7702",
               "account",
@@ -302,7 +302,7 @@
             "open_issues": 46,
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3374,
+            "stars": 3375,
             "topics": [
               "erc1155",
               "erc20",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:50:05.165Z",
+    "last_updated": "2026-09-19T17:23:45.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
