@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "dl-solarity",
             "repo": "solidity-lib",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "bitcoin",
               "cryptography",
@@ -66,8 +66,8 @@
             "id": 823822789,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T11:30:23Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-23T18:29:32Z",
+            "open_issues": 53,
             "owner": "MetaMask",
             "repo": "delegation-framework",
             "stars": 226,
@@ -95,8 +95,8 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-21T16:20:07Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-23T16:11:38Z",
+            "open_issues": 34,
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 32,
@@ -302,7 +302,7 @@
             "open_issues": 46,
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3374,
+            "stars": 3376,
             "topics": [
               "erc1155",
               "erc20",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:14:39.522Z",
+    "last_updated": "2026-09-23T18:34:23.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
