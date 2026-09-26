@@ -95,8 +95,8 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-25T18:45:21Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-26T17:13:11Z",
+            "open_issues": 38,
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 32,
@@ -126,7 +126,7 @@
             "open_issues": 11,
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1939,
+            "stars": 1940,
             "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
@@ -147,7 +147,7 @@
             "open_issues": 74,
             "owner": "ithacaxyz",
             "repo": "account",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "7702",
               "account",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:50:46.927Z",
+    "last_updated": "2026-09-26T17:57:15.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
