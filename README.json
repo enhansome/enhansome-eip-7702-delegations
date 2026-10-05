@@ -66,11 +66,11 @@
             "id": 823822789,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:25:08Z",
+            "last_commit": "2026-10-05T11:57:30Z",
             "open_issues": 51,
             "owner": "MetaMask",
             "repo": "delegation-framework",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "4337",
               "account-abstraction",
@@ -95,7 +95,7 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-04T10:01:18Z",
+            "last_commit": "2026-10-05T14:56:30Z",
             "open_issues": 40,
             "owner": "AmbireTech",
             "repo": "ambire-common",
@@ -126,7 +126,7 @@
             "open_issues": 11,
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1940,
+            "stars": 1941,
             "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
@@ -260,7 +260,7 @@
             "open_issues": 9,
             "owner": "okx",
             "repo": "wallet-core",
-            "stars": 68,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
@@ -299,7 +299,7 @@
             "language": "Solidity",
             "license": "MIT",
             "last_commit": "2026-09-02T10:47:33Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "Vectorized",
             "repo": "solady",
             "stars": 3379,
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:19:42.973Z",
+    "last_updated": "2026-10-05T21:36:03.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
