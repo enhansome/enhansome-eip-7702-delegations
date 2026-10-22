@@ -66,8 +66,8 @@
             "id": 823822789,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T15:59:39Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-22T13:15:33Z",
+            "open_issues": 51,
             "owner": "MetaMask",
             "repo": "delegation-framework",
             "stars": 231,
@@ -95,8 +95,8 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-21T15:19:03Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-22T16:46:14Z",
+            "open_issues": 44,
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 35,
@@ -126,7 +126,7 @@
             "open_issues": 12,
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1942,
+            "stars": 1941,
             "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
@@ -193,7 +193,7 @@
             "id": 935034151,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-07-07T18:12:21Z",
+            "last_commit": "2026-10-21T20:40:40Z",
             "open_issues": 10,
             "owner": "Uniswap",
             "repo": "calibur",
@@ -302,7 +302,7 @@
             "open_issues": 46,
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3384,
+            "stars": 3385,
             "topics": [
               "erc1155",
               "erc20",
@@ -330,7 +330,7 @@
             "open_issues": 2,
             "owner": "openfort-xyz",
             "repo": "openfort-contracts",
-            "stars": 36,
+            "stars": 35,
             "topics": [
               "aa",
               "erc-4337",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:50:48.377Z",
+    "last_updated": "2026-10-22T18:44:45.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
