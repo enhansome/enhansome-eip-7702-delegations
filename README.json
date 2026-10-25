@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "dl-solarity",
             "repo": "solidity-lib",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "bitcoin",
               "cryptography",
@@ -95,7 +95,7 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-23T15:58:49Z",
+            "last_commit": "2026-10-25T08:16:09Z",
             "open_issues": 48,
             "owner": "AmbireTech",
             "repo": "ambire-common",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:32:27.356Z",
+    "last_updated": "2026-10-25T17:47:09.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
