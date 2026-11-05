@@ -95,8 +95,8 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-04T17:36:24Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-05T17:43:19Z",
+            "open_issues": 46,
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 35,
@@ -302,7 +302,7 @@
             "open_issues": 46,
             "owner": "Vectorized",
             "repo": "solady",
-            "stars": 3402,
+            "stars": 3404,
             "topics": [
               "erc1155",
               "erc20",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:54:11.715Z",
+    "last_updated": "2026-11-05T21:11:23.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
