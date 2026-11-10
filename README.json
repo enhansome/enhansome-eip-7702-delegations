@@ -95,7 +95,7 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-09T21:23:58Z",
+            "last_commit": "2026-11-10T20:54:21Z",
             "open_issues": 40,
             "owner": "AmbireTech",
             "repo": "ambire-common",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:32:01.399Z",
+    "last_updated": "2026-11-10T20:58:11.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
