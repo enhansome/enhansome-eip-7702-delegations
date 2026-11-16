@@ -66,8 +66,8 @@
             "id": 823822789,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T04:52:08Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-16T22:38:16Z",
+            "open_issues": 54,
             "owner": "MetaMask",
             "repo": "delegation-framework",
             "stars": 229,
@@ -95,8 +95,8 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-14T16:00:30Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-16T15:45:58Z",
+            "open_issues": 42,
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 35,
@@ -126,7 +126,7 @@
             "open_issues": 12,
             "owner": "eth-infinitism",
             "repo": "account-abstraction",
-            "stars": 1944,
+            "stars": 1943,
             "topics": []
           },
           "first_seen": "2026-08-28T23:38:56.639Z"
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:55:34.196Z",
+    "last_updated": "2026-11-16T23:28:49.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
