@@ -95,8 +95,8 @@
             "id": 491143940,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-21T14:49:10Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-22T07:22:26Z",
+            "open_issues": 37,
             "owner": "AmbireTech",
             "repo": "ambire-common",
             "stars": 35,
@@ -326,7 +326,7 @@
             "id": 633913325,
             "language": "Solidity",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T08:57:09Z",
+            "last_commit": "2026-11-22T11:02:26Z",
             "open_issues": 2,
             "owner": "openfort-xyz",
             "repo": "openfort-contracts",
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:38:43.874Z",
+    "last_updated": "2026-11-22T20:48:39.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome EIP-7702 delegation destinations.",
